@@ -1,0 +1,44 @@
+{
+  "cars": [
+    {
+      "id": 2,
+      "name": "audi",
+      "price": "160000"
+    },
+    {
+      "name": "Skoda",
+      "price": "10000",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Volvo",
+      "price": "29000"
+    },
+    {
+      "id": 5,
+      "name": "bentley",
+      "price": "350000"
+    },
+    {
+      "id": 6,
+      "name": "daihatsu",
+      "price": "50000"
+    },
+    {
+      "name": "test",
+      "price": "12000",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "suzuki",
+      "price": "1"
+    },
+    {
+      "name": "satria",
+      "price": "100000",
+      "id": 9
+    }
+  ]
+}
